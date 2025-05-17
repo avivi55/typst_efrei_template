@@ -1,0 +1,7 @@
+[package]
+name = "efrei"
+version = "0.1.0"
+entrypoint = "efrei.typ"
+authors = ["Jacques Sghomonyan"]
+license = "WTFPL"
+description = "A template for my personnal report card."
