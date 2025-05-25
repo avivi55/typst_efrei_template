@@ -4,8 +4,9 @@
 #show: report.with(
   title: [Title],
   subtitle: [subtitle],
-  subject: (name: "Example", color: teal),
-  authors: ("Me", "you", "him"),
+  subject: (name: "Example", color: eastern),
+  authors: ("This guy", "That gal"),
+  theme: "gauss"
 )
 
 
